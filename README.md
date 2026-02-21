@@ -6,4 +6,4 @@ Key Features:
 2. Error Handling: If incorrect information is provided, the input box is highlighted in red, and a corresponding error message is displayed in red text.
 
 
-![Website preview](Registration form/images/screenshot.png)
+![Website preview](Registrationform/images/screenshot.png)
