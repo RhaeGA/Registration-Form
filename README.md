@@ -6,4 +6,4 @@ Key Features:
 2. Error Handling: If incorrect information is provided, the input box is highlighted in red, and a corresponding error message is displayed in red text.
 
 
-![Website preview]([Registration_form/images/screenshot.png](https://github.com/RhaeGA/Registration-Form/blob/cd32395e36bb3f6008828617cbd671a9e33d8396/Registration%20form/images/screenshot.png))
+![Website preview]([images/screenshot.png)
